@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8"></meta>
+	<title>level 1</title>
+</head>
+
+<body>
+    <div class = heading>
+        <h3> Title </h3>This is a paragraph </p>
+            <ul class="images">
+                <li>
+                    <img src = "img1.jpg"></img>
+                </li>
+                <li>
+                    <img src = "img2.jpg"></img>
+                </li> 
+                <li>
+                    <img src = "img3.jpg"></img></ul>
+    </div><body></html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8"></meta>
+	<title>Part One</title>
+</head>
+
+<body>
+    <div class = heading>
+        <h1> Title </hH1>
+        <h3>Hello there!</h3>
+        <p>This is a paragraph (:</p>
+        <ol class="images">
+            <li>
+                <p>Item One</p>
+            </li>
+            <li>
+                <p>Item Two</p>
+            </li>
+            <li>
+                <p>Item Three</p>
+            </li>
+        </ol>
+        <img>alt = img.jpg</img>
+        <a class = "link">click this</a>
+
+    </div>
+</body>
+
+</html>
